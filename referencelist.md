@@ -45,7 +45,7 @@
       Trace loggin can be used to trace the functions here is an simple example
             the files created can be read by using <I>go tool trace trace.log</I>
             package main
-<code>
+`
 import (
 	"fmt"
 	"log"
@@ -85,7 +85,7 @@ func AddRandomNumbers() {
 
 	fmt.Printf("Result of 2 numbers is %d\n", result)
 }
-            </code>
+ `
             
             
             
